@@ -78,7 +78,6 @@ The notebook is structured as follows:
 2.  **Feature Engineering:** Contains the code for all the time series transformations and feature generation methods.
 3.  **Feature Selection:** Implements the feature selection process using Shapley values and LightGBM importance.
 4.  **Model Training and Prediction:** Trains the final LightGBM model and generates predictions for the test set.
-5.  **Submission File Generation:** Creates the final `submission.csv` file in the format required by the competition.
 
 ## Dependencies
 
